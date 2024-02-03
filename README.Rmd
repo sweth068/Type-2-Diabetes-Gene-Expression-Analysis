@@ -1,0 +1,21 @@
+##README
+
+# Gene Expression Analysis
+
+Pancreatic beta-cells play a crucial role in the regulation of blood sugar levels and are central to our understanding of type 2 diabetes (T2D). In individuals with T2D, there is a distinctive interplay between these beta-cells and the progression of the disease. Beta-cells are responsible for producing and releasing insulin, a hormone essential for glucose metabolism. However, in the context of T2D, these cells often face challenges. 
+
+This gene expression analysis revolves around a dataset focusing on pancreatic beta-cells within the context of type 2 diabetes (T2D). The dataset comprises samples from 10 control subjects and 10 individuals diagnosed with T2D. Obtained through laser capture microdissection, the pancreatic tissue enriches for beta-cells, shedding light on their gene expression profile.
+
+Processed using the Affymetrix Human X3P Array (GPL1352), this dataset captures the molecular intricacies of beta-cell dynamics. The array data undergo normalization, and subsequent analysis, powered by the DNA-Chip Analyzer software, uncovers crucial insights into the genetic landscape associated with beta-cell dysfunction in early-stage T2D.
+
+The dataset, stemming from cadaver pancreases, offers a valuable resource for understanding the underlying genetic factors contributing to beta-cell dysfunction in the context of T2D.
+
+## Dataset Information
+
+Source: GEO Datasets [GDS3782](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3782#details)
+Citation: Marselli L, Thorne J, Dahiya S, Sgroi DC et al. Gene expression profiles of Beta-cell enriched tissue obtained by laser capture microdissection from subjects with type 2 diabetes. PLoS One 2010 Jul 13;5(7):e11499. PMID: 20644627
+Title: Type 2 Diabetes: Pancreatic Beta-cells
+
+
+
+
